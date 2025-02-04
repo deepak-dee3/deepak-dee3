@@ -47,14 +47,10 @@
 
 ---
 
-<h3 align="left">⚙️ Tools & Frameworks:</h3>
+<h3 align="left">📦 Frameworks:</h3>
 <p align="left">  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>  
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
   </a>
   &nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
@@ -67,6 +63,15 @@
   &nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>  
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Tools:</h3>
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
   </a>
   &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
