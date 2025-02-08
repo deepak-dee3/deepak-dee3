@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DEEPAK D</h1>
 <h3 align="center">A passionate application developer from India</h3>
 
-- 🔭 I’m currently working on [ByteUprise App](https://github.com/deepak-dee3/Byte_Uprise_Intern)
+- 🔭 I’m currently working on [Mentor Chat Application](https://github.com/deepak-dee3/Mentor_Chat_Application)
 
 - 💬 Ask me about **Full Stack Application Developer, MERN Developer**
 
