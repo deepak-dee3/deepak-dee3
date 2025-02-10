@@ -76,6 +76,10 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
   </a>
   &nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40" />
+  </a>
+   &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>  
   </a>
